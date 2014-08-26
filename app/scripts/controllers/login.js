@@ -7,7 +7,7 @@
  * # MainCtrl
  * Controller of the confessmeApp
  */
-var app = angular.module( 'confessmeApp');
+var app = angular.module( 'dotaStatApp');
 
 app.controller('LoginCtrl', ['', function(){
 

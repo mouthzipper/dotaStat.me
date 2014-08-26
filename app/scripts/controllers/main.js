@@ -7,8 +7,8 @@
  * # MainCtrl
  * Controller of the confessmeApp
  */
-angular.module('confessmeApp')
-  .controller('MainCtrl', function ($scope) {
+angular.module('dotaStatApp')
+  .controller('ContentCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
